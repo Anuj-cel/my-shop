@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "description": "Bluetooth over-ear headphones with noise cancellation.",
+    "price": 99.99,
+    "category": "Electronics",
+    "inventory": 25,
+    "lastUpdated": "2025-10-31T16:37:18.151Z"
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "slug": "smart-watch",
+    "description": "Track your fitness and notifications on the go.",
+    "price": 149.99,
+    "category": "Electronics",
+    "inventory": 15,
+    "lastUpdated": "2024-01-01T12:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Gaming Mouse",
+    "slug": "gaming-mouse",
+    "description": "Ergonomic mouse with RGB and programmable buttons.",
+    "price": 49.99,
+    "category": "Accessories",
+    "inventory": 40,
+    "lastUpdated": "2024-01-01T12:00:00.000Z"
+  },
+  {
+    "id": "1761927350107",
+    "name": "New Product",
+    "slug": "new-product",
+    "description": "Test item",
+    "price": 20,
+    "category": "Test",
+    "inventory": 10,
+    "lastUpdated": "2025-10-31T16:15:50.107Z"
+  },
+  {
+    "id": "1761927473246",
+    "name": "Camera",
+    "slug": "camera",
+    "description": "4K DSLR",
+    "price": 500,
+    "category": "electronics",
+    "inventory": 8,
+    "lastUpdated": "2025-10-31T16:25:29.050Z"
+  },
+  {
+    "id": "1761928628700",
+    "name": "adf",
+    "slug": "afds",
+    "description": "adfs",
+    "price": null,
+    "category": "afds",
+    "inventory": null,
+    "lastUpdated": "2025-10-31T16:37:08.701Z"
+  }
+]
